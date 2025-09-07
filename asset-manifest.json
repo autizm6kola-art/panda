@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/autizm6kola-art/panda.git/static/css/main.24134842.css",
+    "main.js": "/autizm6kola-art/panda.git/static/js/main.6d6b4048.js",
+    "static/js/453.3aec450b.chunk.js": "/autizm6kola-art/panda.git/static/js/453.3aec450b.chunk.js",
+    "index.html": "/autizm6kola-art/panda.git/index.html",
+    "main.24134842.css.map": "/autizm6kola-art/panda.git/static/css/main.24134842.css.map",
+    "main.6d6b4048.js.map": "/autizm6kola-art/panda.git/static/js/main.6d6b4048.js.map",
+    "453.3aec450b.chunk.js.map": "/autizm6kola-art/panda.git/static/js/453.3aec450b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24134842.css",
+    "static/js/main.6d6b4048.js"
+  ]
+}
