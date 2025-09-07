@@ -522,7 +522,7 @@ function App() {
   // };
 
   const handleSaveAnswer = (taskId, answer) => {
-  const updatedTasks = { ...answeredTasks, [taskId]: answer };
+  const updatedTasks = { ...answeredTasks, [taskId]: answer.toString() };
   const newCount = Object.keys(updatedTasks).length; // обновляем количество ответов
 
   setAnsweredTasks(updatedTasks);
